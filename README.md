@@ -1,2 +1,20 @@
 # Python_Basics_with_Numpy
 Exercise Numpy On Jupyter Notebook
+## Table of Contents
+- [About iPython Notebooks](#0)
+    - [Exercise 1](#ex-1)
+- [1 - Building basic functions with numpy](#1)
+    - [1.1 - sigmoid function, np.exp()](#1-1)
+        - [Exercise 2 - basic_sigmoid](#ex-2)
+        - [Exercise 3 - sigmoid](#ex-3)
+    - [1.2 - Sigmoid Gradient](#1-2)
+        - [Exercise 4 - sigmoid_derivative](#ex-4)
+    - [1.3 - Reshaping arrays](#1-3)
+        - [Exercise 5 - image2vector](#ex-5)
+    - [1.4 - Normalizing rows](#1-4)
+        - [Exercise 6 - normalize_rows](#ex-6)
+        - [Exercise 7 - softmax](#ex-7)
+- [2 - Vectorization](#2)
+    - [2.1 Implement the L1 and L2 loss functions](#2-1)
+        - [Exercise 8 - L1](#ex-8)
+        - [Exercise 9 - L2](#ex-9)
